@@ -1978,7 +1978,7 @@ name = "pyloro"
 version = "0.2.0"
 dependencies = [
  "base64 0.22.1",
- "loro-internal 1.0.0-beta.5",
+ "loro-internal 1.1.0",
  "pyo3",
 ]
 
