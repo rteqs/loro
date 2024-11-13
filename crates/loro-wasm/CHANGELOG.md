@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.1.2
+
+### Patch Changes
+
+- 35e7ea5: Add changeCount and opCount methods
+
 ## 1.1.1
 
 ### Patch Changes
