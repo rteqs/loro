@@ -1,6 +1,6 @@
 [package]
 name = "pyloro"
-version = "0.1.0"
+version = "0.2.0"
 edition = "2021"
 license = "MIT"
 publish = false
@@ -10,3 +10,4 @@ publish = false
 [dependencies]
 pyo3 = { version = "0.17", features = ["extension-module"] }
 loro-internal = { path = "../loro-internal" }
+base64 = "0.22.1"
